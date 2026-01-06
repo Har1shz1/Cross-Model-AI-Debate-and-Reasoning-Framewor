@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # 🤖 Cross-Model AI Debate and Reasoning Framework :- Electric Vehicles vs Fuel Cars                                 
 ![Multi-Agent Debate](images/0.0.png) 
