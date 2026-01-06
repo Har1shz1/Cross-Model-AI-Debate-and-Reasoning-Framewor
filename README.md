@@ -1,6 +1,6 @@
 
 # 🤖 Cross-Model AI Debate and Reasoning Framework :- Electric Vehicles vs Fuel Cars                                 
-<img width="1024" height="1024" alt="0 0" src="https://github.com/user-attachments/assets/a9535cfa-44fd-4f32-ba77-9602704dfa1b" />
+<img width="1024" height="1024" alt="0 0" src="https://github.com/user-attachments/assets/a9535cfa-44fd-4f32-ba77-9602704dfa1b" /> 
 
 This project demonstrates how to simulate a structured debate between two AI agents using [AutoGen](https://github.com/microsoft/autogen). The topic of the debate is: 
  
