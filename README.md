@@ -105,9 +105,9 @@ That's enough! After reviewing all arguments, I declare the winner is...
 ```
 /electric-vs-fuel-ai-debate
 │
-├── debate_notebook.ipynb      ← Main notebook to run
-├── README.md                   ← You are here
-└── /screenshots                ← Output samples
+├── debate_notebook.ipynb      
+├── README.md                   
+└── /screenshots                
     └── debate_sample.png
 ```
 
