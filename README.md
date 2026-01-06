@@ -103,8 +103,10 @@ That's enough! After reviewing all arguments, I declare the winner is...
 │
 ├── debate_notebook.ipynb      
 ├── README.md                   
-└── /screenshots                
-    └── debate_sample.png
+└── /images               
+    └── agent_debate.png
+    └── debate_transcript.png
+
 ```
 
 ---
