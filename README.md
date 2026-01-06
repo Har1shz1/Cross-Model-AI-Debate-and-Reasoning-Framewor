@@ -60,7 +60,7 @@ os.environ['DEEPSEEK_API_KEY'] = userdata.get('DEEPSEEK_API_KEY')
 ---
 
 ### ▶️ Run the Debate
-https://github.com/Har1shz1/Cross-Model-AI-Debate-and-Reasoning-Framework/blob/main/2.o.png
+![Debate Transcript](images/2.o.png) 
 Use the following command to run:
 
 ```python
@@ -75,7 +75,7 @@ This triggers the debate, and the `judge_agent` will orchestrate the interaction
 
 You’ll get a full transcript like this:
 
-https://github.com/Har1shz1/Cross-Model-AI-Debate-and-Reasoning-Framework/blob/main/4.0.png
+![Multi-Agent Architecture](images/4.0.png)
 
 ---
 
