@@ -60,7 +60,6 @@ os.environ['DEEPSEEK_API_KEY'] = userdata.get('DEEPSEEK_API_KEY')
 ---
 
 ### ▶️ Run the Debate
-![Debate Transcript](images/2.o.png) 
 Use the following command to run:
 
 ```python
