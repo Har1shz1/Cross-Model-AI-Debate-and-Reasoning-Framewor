@@ -122,4 +122,9 @@ That's enough! After reviewing all arguments, I declare the winner is...
 
 ## 📜 License
 
-MIT License
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and commercialize this software, provided that the original copyright notice and permission notice are included.
+
+See the [LICENSE](LICENSE) file for full details.
+
