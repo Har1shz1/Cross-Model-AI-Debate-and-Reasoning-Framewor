@@ -1,7 +1,6 @@
 
 # 🤖 Cross-Model AI Debate and Reasoning Framework :- Electric Vehicles vs Fuel Cars                                 
-<img width="1024" height="1024" alt="0 0" src="https://github.com/user-attachments/assets/a9535cfa-44fd-4f32-ba77-9602704dfa1b" /> 
-
+https://github.com/Har1shz1/Cross-Model-AI-Debate-and-Reasoning-Framework/blob/main/0.0.png
 This project demonstrates how to simulate a structured debate between two AI agents using [AutoGen](https://github.com/microsoft/autogen). The topic of the debate is: 
  
 > **Should Electric Vehicles (EVs) replace fuel-powered cars?**       
@@ -61,8 +60,7 @@ os.environ['DEEPSEEK_API_KEY'] = userdata.get('DEEPSEEK_API_KEY')
 ---
 
 ### ▶️ Run the Debate
-<img width="1458" height="778" alt="1 o" src="https://github.com/user-attachments/assets/f9337817-93ea-415e-a546-43c627f940c3" />
-
+https://github.com/Har1shz1/Cross-Model-AI-Debate-and-Reasoning-Framework/blob/main/2.o.png
 Use the following command to run:
 
 ```python
@@ -77,8 +75,7 @@ This triggers the debate, and the `judge_agent` will orchestrate the interaction
 
 You’ll get a full transcript like this:
 
-<img width="1024" height="1350" alt="4 0" src="https://github.com/user-attachments/assets/2fce8af6-6702-42a4-a7c8-65cd13f62674" />
-
+https://github.com/Har1shz1/Cross-Model-AI-Debate-and-Reasoning-Framework/blob/main/4.0.png
 
 ---
 
